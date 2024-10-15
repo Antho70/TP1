@@ -1,0 +1,158 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(red, blue);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+table,
+td,
+th {
+
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    margin-top: 10px;
+    
+
+}
+
+.titre{
+     
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
+
+.synopsis {
+
+    text-align: left;
+}
+
+.paragraphe{
+
+    text-align: justify;
+
+}
+
+.distribution{
+
+    background-color: blue;
+}
+
+.Autres{
+
+    float: left;
+}
+
+.sources{
+
+    float: left;
+}
+
+.Distribution{
+    background-color: blue;
+}
+
+.affichefilm{
+
+    height: 800px;
+    float: left;
+}
+
+.heros{
+
+    color: blue;
+    font-style: italic;
+}
+
+#chris{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Chris_Evans.png) ;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+   
+}
+
+#Chris{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Chris_Hemsworth.png) ;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#jeremy{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Jeremy_Renner.png) ;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#mark{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Mark_Ruffalo.png);
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#robert{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Robert_Downey_Jr..png);
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#scarlett{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Scarlett_Johansson.png);
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#tom{
+
+    width: 80px;
+    height: 80px;
+    background-image:url(../images/Tom_Hiddleston.png);
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
